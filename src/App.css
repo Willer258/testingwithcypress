@@ -1,0 +1,31 @@
+.button-green {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.button-red {
+  background-color: #cf0a1d; /* Red */
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.text-test {
+  color: blue;
+}
+
+body {
+  margin-left: 15px;
+}
